@@ -1,0 +1,12 @@
+{
+  "departments": [
+    "IT",
+    "HR",
+    "Finance",
+    "Marketing",
+    "Legal",
+    "Sales",
+    "Operations",
+    "Support"
+  ]
+}
